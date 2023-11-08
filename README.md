@@ -3,7 +3,7 @@
 
 <!-- 블로그 및 연락 -->
 <div align="center">
-  <p><strong>📚 tech blog </strong> : <a href="https://bumpy-hospital-f8b.notion.site/Tech-blog-698a2b1746d94d3c980778d80de8a4bf?pvs=4">notion</a> </p>
+<!--   <p><strong>📚 tech blog </strong> : <a href="https://bumpy-hospital-f8b.notion.site/Tech-blog-698a2b1746d94d3c980778d80de8a4bf?pvs=4">notion</a> </p> -->
   <p align="center">📧 <strong>E-mail</strong>: dynamics1898@naver.com | dynamics1898@naver.com (secondary)</p>
 </div>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -59,7 +59,8 @@
       <img src="https://img.shields.io/badge/xgboost-Link🔗-150458?style=flat&logo=&logoColor=white"/>
     </a>
   </p>
-  <p>본인역할➡️: 데이터 EDA, 전처리 및 샘플링기법적용,   모델 학습 및 성능비교,   optuna활용하여 모델튜닝 및 구조 최적화,  실행프로그램 작성</p>
+  <p>본인역할➡️: 데이터 EDA, 전처리 및 샘플링기법적용,   모델 학습 및 성능비교,   optuna활용하여 모델튜닝 및 구조 최적화,  
+    실행프로그램 작성</p>
   &nbsp&nbsp&nbsp&nbsp
 
   <h3><strong> <a href="https://github.com/KHP95/side_project4">영환 관객수 예측 프로젝트 (개인)</a> </strong></h3>
@@ -85,7 +86,7 @@
   <p>주요내용➡️: Tensorflow활용하여 고기의 선도를 분류하는 CNN모델구성, MBConv block과 유사한 커스텀 backbone구성</p>
   &nbsp&nbsp&nbsp&nbsp
 
-  <h3><strong> <a href="https://github.com/KHP95/Section1-Project3">비디오게임산업 데이터분석 연습 (개인)</a> </strong></h3>
+  <h3><strong> <a href="https://github.com/KHP95/Section1-Project">비디오게임산업 데이터분석 연습 (개인)</a> </strong></h3>
   <p>
     🛠 사용스택 : 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -94,4 +95,14 @@
   </p>
   <p>주요내용➡️: 데이터 EDA, 시각화, 통계검정기법 활용한 가설검정, 데이터분석 이후 BI도출 </p>
   &nbsp&nbsp&nbsp&nbsp
+
+  <h3><strong> <a href="https://github.com/KHP95/gradutaion_project">로봇팔 임베디드시스템 구성 (팀)</a> </strong></h3>
+  <p>
+    🛠 사용스택(본인파트) : 
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
+    <img src="https://img.shields.io/badge/arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
+  </p>
+  <p>본인역할➡️: 임베디드시스템 하드웨어 구성, 로봇팔 펌웨어 개발, 배터리 교체 알고리즘 개발 </p>
+  &nbsp&nbsp&nbsp&nbsp
 </div>
+
