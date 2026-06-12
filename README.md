@@ -35,7 +35,7 @@
 <!-- 프로젝트 섹션 -->
 <div align="center">
   <h2> 🔎 프로젝트</h2>
-  <h3><strong><a href="https://lawra.kr">에이전트형 판례챗봇 Law-RA </a></strong></h3>
+  <h3><strong><a href="https://github.com/KHP95/law-RA">에이전트형 판례챗봇 Law-RA </a></strong></h3>
   <p>
     🛠 사용스택 : 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
